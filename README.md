@@ -34,8 +34,8 @@ MODEL GRAPH:
 TABULATION:
 <img width="1280" height="810" alt="565417063-f8f9b138-9aef-40c0-b406-36d112fa8869" src="https://github.com/user-attachments/assets/b28d0a55-3b7e-42a2-bf5d-1a16c90c0a75" />
 
-
 GRAPH: 
+
 <img width="877" height="1280" alt="565414532-71028ef2-a88f-43f2-b771-7a0d746139e9" src="https://github.com/user-attachments/assets/ed1378b8-549c-4ba5-92b6-f2a03b87c3a9" />
 
 
